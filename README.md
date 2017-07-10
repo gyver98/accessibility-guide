@@ -52,6 +52,9 @@ Ensuring a site is accessible is not only the work of a developer. Care should b
 * All Large text 14px bold or 18px and above will be compliant to a 3.0:1 contrast ratio
 * Note that logos or text within a logo have no contrast requirement
 
+* Color Contrast Checker example:
+![](https://raw.githubusercontent.com/gyver98/blog-images/master/Accessibility-Guide/Color%20Contrast%20Checker%20example.png)
+
 ### Link Presentation
 * Anchor links within body text must be underlined by default. The only exception is if the colour contrast of the link is 3.0:1 to the surrounding paragraph text AND 3.0:1 the background colour
 * Underline links on mouse hover and keyboard focus
