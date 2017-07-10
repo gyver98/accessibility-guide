@@ -105,6 +105,7 @@ Ensuring a site is accessible is not only the work of a developer. Care should b
 * Avoid using URLs as link text
 * Include document format and size, eg “View the Agreement 2016/17 (Word, 389kb)"
 * Reading should reach Flesch-Kincaid Grade level 9 or lower. This can be measured in MS Word
+- [guide for Test your document's readability](https://support.office.com/en-us/article/Test-your-document-s-readability-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2#rb2) 
 * Content must not have a dependency on the visual layout context - eg “use the search bar on the right” or "click the button below" is hard to understand for a screen reader user. Not all users can perceive location
 * Don’t use use ASCII characters out of context. For instance ‘II’ might look like a pause icon, but it is actually two capital “i” letters, and will be read as such. Square root icon might look like a tick but it isn’t
 
